@@ -1,0 +1,26 @@
+.main_container{
+    height: 950px;
+    background-color: #eff2f5;
+}
+.image_container{
+    display: flex;
+    margin: 15px;
+}
+.image_imglay{
+    
+}
+.image_img{
+    max-height: 35px;
+    max-width: 35px;
+}
+.image_text{
+    font-weight: 500;
+    margin: 10px;
+    font-size: 14px;
+}
+.middleContainer{
+    margin-left: 50px !important;
+    overflow-y: scroll;
+    height: 950px;
+    max-width: 750px !important;
+}
